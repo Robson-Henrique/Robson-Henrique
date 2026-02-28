@@ -1,7 +1,7 @@
 ### Olá meu nome é Robson Henrique 
 
 -  Entusiasta por  tecnología
--  Estudante de Análise e desenvolvimento de sistemas 
+-  Estudante de Sistemas da Informação  
 
 <a href="https://www.linkedin.com/in/robson-henrique-8562b924a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
